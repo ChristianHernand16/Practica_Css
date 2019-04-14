@@ -1,0 +1,50 @@
+
+#menu{
+    width: 100px;
+    border-width: 10px;
+    border-color:greenyellow;
+    border-style: outset;
+    float: left;
+
+}
+#contenido{
+    
+    height: 400px;
+    width: 40px;
+    margin: 10px 10px;
+}
+ 
+
+.imagen150{
+    height: 400px;
+    width: 600px;
+    margin-right: 3px;
+    border: 3px inset rgb(47, 255, 238); 
+    float: left;
+} 
+.imagen1500{
+    height: 400px;
+    width: 600px;
+    margin-right: 3px;
+    border: 3px dashed rgb(47, 231, 255); 
+    float: right;
+} 
+.footer{
+    float: left;
+    height: 450px;
+    width: 500px;
+    border: white 10px ridge;
+  
+}
+h1{
+    background-color: rgb(47, 255, 238);
+    text-align: center;
+
+    
+}
+p{
+   
+ 
+  
+
+}
