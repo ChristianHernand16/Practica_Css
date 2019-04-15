@@ -20,7 +20,7 @@ h2 {
     float: left;
     width: 18%;
     margin: 3px;
-  padding: auto;
+  padding: 0px;
   background-color: rgb(0, 255, 157); 
 }
 
@@ -57,7 +57,7 @@ background-color:rgb(0, 255, 157);
     float: left;
     width: 30%;
     margin: 3px;
-  padding: 0;
+  padding: 0px;
   background-color:rgb(0, 255, 157); 
 
 }
@@ -68,7 +68,7 @@ background-color:rgb(0, 255, 157);
     float: right;
     width: 46%;
     margin: 2px;
-  padding: 10;
+  padding: 10px;
   background-color:  rgb(0, 255, 157); 
 }a:visited{
   color: blue;
