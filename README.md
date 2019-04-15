@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Resultado</title>
+    <h1>Resultado</h1>
     <header>
   
    
